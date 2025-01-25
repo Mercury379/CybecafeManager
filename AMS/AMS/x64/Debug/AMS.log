@@ -1,0 +1,4 @@
+﻿  rate_service.c
+D:\C实验\AMS\AMS\rate_service.c(65): warning C4716: “beforeRateExit”: 必须返回一个值
+D:\C实验\AMS\AMS\rate_service.c(39): warning C4716: “addRate”: 必须返回一个值
+  AMS.vcxproj -> D:\C实验\AMS\x64\Debug\AMS.exe
